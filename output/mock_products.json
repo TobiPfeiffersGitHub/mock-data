@@ -1,0 +1,431 @@
+{
+  "1a8e61d5fa914919b8605dea4f809555": {
+    "data": {
+      "sku": "1a8e61d5fa914919b8605dea4f809555",
+      "name": "Whole Wheat Bread",
+      "brandName": "GENERIC",
+      "description": "Lorem ipsum dolor sit amet.",
+      "metaRobots": "index, follow",
+      "notForSale": false,
+      "quantityMin": 1,
+      "quantityMax": 99,
+      "quantityUnit": "ea",
+      "sellingSize": "1 Unit",
+      "storageInstructions": "Store in a cool dry place.",
+      "ingredients": "Whole Wheat Flour, Water, Yeast, Salt, Sugar, Vegetable Oil, Milk Powder, Preservatives (Calcium Propionate).",
+      "stockInformationAvailable": true,
+      "price": {
+        "amount": 3.57,
+        "currencyCode": "EUR",
+        "currencySymbol": "€"
+      },
+      "categories": [
+        {
+          "id": "1234",
+          "name": "Mock Category",
+          "urlSlugText": "mock-category"
+        }
+      ],
+      "assets": [],
+      "nutritionalClaims": [],
+      "allergens": [
+        {
+          "name": "Wheat",
+          "contains": true
+        },
+        {
+          "name": "Molluscs",
+          "contains": true
+        },
+        {
+          "name": "Milk",
+          "contains": true
+        },
+        {
+          "name": "Crustacean shellfish",
+          "contains": true
+        }
+      ]
+    }
+  },
+  "34a67152754842089d0e23b0dc2e24c0": {
+    "data": {
+      "sku": "34a67152754842089d0e23b0dc2e24c0",
+      "name": "Mixed Nut Butter",
+      "brandName": "GENERIC",
+      "description": "Lorem ipsum dolor sit amet.",
+      "metaRobots": "index, follow",
+      "notForSale": false,
+      "quantityMin": 1,
+      "quantityMax": 99,
+      "quantityUnit": "ea",
+      "sellingSize": "1 Unit",
+      "storageInstructions": "Store in a cool dry place.",
+      "ingredients": "Roasted Peanuts, Cashews, Almonds, Brazils, Hazelnuts, Sunflower Oil, Salt.",
+      "stockInformationAvailable": true,
+      "price": {
+        "amount": 3.19,
+        "currencyCode": "EUR",
+        "currencySymbol": "€"
+      },
+      "categories": [
+        {
+          "id": "1234",
+          "name": "Mock Category",
+          "urlSlugText": "mock-category"
+        }
+      ],
+      "assets": [],
+      "nutritionalClaims": [],
+      "allergens": [
+        {
+          "name": "Sesame",
+          "contains": true
+        },
+        {
+          "name": "Celery",
+          "contains": true
+        },
+        {
+          "name": "Tree nuts",
+          "contains": true
+        },
+        {
+          "name": "Crustacean shellfish",
+          "contains": true
+        }
+      ]
+    }
+  },
+  "4f0a88d5a1f24e81907af7c9f4403476": {
+    "data": {
+      "sku": "4f0a88d5a1f24e81907af7c9f4403476",
+      "name": "Tinned Sardines in Olive Oil",
+      "brandName": "GENERIC",
+      "description": "Lorem ipsum dolor sit amet.",
+      "metaRobots": "index, follow",
+      "notForSale": false,
+      "quantityMin": 1,
+      "quantityMax": 99,
+      "quantityUnit": "ea",
+      "sellingSize": "1 Unit",
+      "storageInstructions": "Store in a cool dry place.",
+      "ingredients": "Sardines (Fish), Olive Oil, Salt.",
+      "stockInformationAvailable": true,
+      "price": {
+        "amount": 0.99,
+        "currencyCode": "EUR",
+        "currencySymbol": "€"
+      },
+      "categories": [
+        {
+          "id": "1234",
+          "name": "Mock Category",
+          "urlSlugText": "mock-category"
+        }
+      ],
+      "assets": [],
+      "nutritionalClaims": [],
+      "allergens": [
+        {
+          "name": "Molluscs",
+          "contains": true
+        },
+        {
+          "name": "Fish",
+          "contains": true
+        },
+        {
+          "name": "Soybeans",
+          "contains": true
+        }
+      ]
+    }
+  },
+  "3273937daefb4db2a3edd9d382cb03c9": {
+    "data": {
+      "sku": "3273937daefb4db2a3edd9d382cb03c9",
+      "name": "Creamy Peanut Butter",
+      "brandName": "GENERIC",
+      "description": "Lorem ipsum dolor sit amet.",
+      "metaRobots": "index, follow",
+      "notForSale": false,
+      "quantityMin": 1,
+      "quantityMax": 99,
+      "quantityUnit": "ea",
+      "sellingSize": "1 Unit",
+      "storageInstructions": "Store in a cool dry place.",
+      "ingredients": "Roasted Peanuts, Sugar, Palm Oil, Salt.",
+      "stockInformationAvailable": true,
+      "price": {
+        "amount": 6.19,
+        "currencyCode": "EUR",
+        "currencySymbol": "€"
+      },
+      "categories": [
+        {
+          "id": "1234",
+          "name": "Mock Category",
+          "urlSlugText": "mock-category"
+        }
+      ],
+      "assets": [],
+      "nutritionalClaims": [],
+      "allergens": [
+        {
+          "name": "Peanuts",
+          "contains": true
+        }
+      ]
+    }
+  },
+  "ef2ddd0a050d494ba420db69c855af63": {
+    "data": {
+      "sku": "ef2ddd0a050d494ba420db69c855af63",
+      "name": "Almond Milk (Unsweetened)",
+      "brandName": "GENERIC",
+      "description": "Lorem ipsum dolor sit amet.",
+      "metaRobots": "index, follow",
+      "notForSale": false,
+      "quantityMin": 1,
+      "quantityMax": 99,
+      "quantityUnit": "ea",
+      "sellingSize": "1 Unit",
+      "storageInstructions": "Store in a cool dry place.",
+      "ingredients": "Filtered Water, Almonds (2.5%), Calcium Carbonate, Sea Salt, Stabiliser (Gellan Gum), Emulsifier (Sunflower Lecithin), Vitamins (B12, D2, E).",
+      "stockInformationAvailable": true,
+      "price": {
+        "amount": 2.59,
+        "currencyCode": "EUR",
+        "currencySymbol": "€"
+      },
+      "categories": [
+        {
+          "id": "1234",
+          "name": "Mock Category",
+          "urlSlugText": "mock-category"
+        }
+      ],
+      "assets": [],
+      "nutritionalClaims": [],
+      "allergens": [
+        {
+          "name": "Milk",
+          "contains": true
+        },
+        {
+          "name": "Wheat",
+          "contains": true
+        },
+        {
+          "name": "Lupin",
+          "contains": true
+        },
+        {
+          "name": "Tree nuts",
+          "contains": true
+        }
+      ]
+    }
+  },
+  "7d922ae992e74f439a65fdb1b7bd3df9": {
+    "data": {
+      "sku": "7d922ae992e74f439a65fdb1b7bd3df9",
+      "name": "Spicy Peanut and Cashew Stir-fry Sauce",
+      "brandName": "GENERIC",
+      "description": "Lorem ipsum dolor sit amet.",
+      "metaRobots": "index, follow",
+      "notForSale": false,
+      "quantityMin": 1,
+      "quantityMax": 99,
+      "quantityUnit": "ea",
+      "sellingSize": "1 Unit",
+      "storageInstructions": "Store in a cool dry place.",
+      "ingredients": "Water, Peanuts (10%), Cashews (5%), Sugar, Soy Sauce (Water, Soybeans, Wheat, Salt), Chilli, Ginger, Garlic, Modified Maize Starch, Acidity Regulator (Acetic Acid), Preservative (Potassium Sorbate).",
+      "stockInformationAvailable": true,
+      "price": {
+        "amount": 3.49,
+        "currencyCode": "EUR",
+        "currencySymbol": "€"
+      },
+      "categories": [
+        {
+          "id": "1234",
+          "name": "Mock Category",
+          "urlSlugText": "mock-category"
+        }
+      ],
+      "assets": [],
+      "nutritionalClaims": [],
+      "allergens": [
+        {
+          "name": "Peanuts",
+          "contains": true
+        },
+        {
+          "name": "Celery",
+          "contains": true
+        }
+      ]
+    }
+  },
+  "a998ac642c5c4047ae0752a2b39e478c": {
+    "data": {
+      "sku": "a998ac642c5c4047ae0752a2b39e478c",
+      "name": "Classic Victoria Sponge Cake",
+      "brandName": "GENERIC",
+      "description": "Lorem ipsum dolor sit amet.",
+      "metaRobots": "index, follow",
+      "notForSale": false,
+      "quantityMin": 1,
+      "quantityMax": 99,
+      "quantityUnit": "ea",
+      "sellingSize": "1 Unit",
+      "storageInstructions": "Store in a cool dry place.",
+      "ingredients": "Wheat Flour, Sugar, Butter (Milk), Eggs, Raspberry Jam (Raspberries, Sugar, Pectin), Whipping Cream (Milk), Baking Powder (Raising Agents: E450, E500; Wheat Flour).",
+      "stockInformationAvailable": true,
+      "price": {
+        "amount": 7.69,
+        "currencyCode": "EUR",
+        "currencySymbol": "€"
+      },
+      "categories": [
+        {
+          "id": "1234",
+          "name": "Mock Category",
+          "urlSlugText": "mock-category"
+        }
+      ],
+      "assets": [],
+      "nutritionalClaims": [],
+      "allergens": [
+        {
+          "name": "Eggs",
+          "contains": true
+        },
+        {
+          "name": "Tree nuts",
+          "contains": true
+        }
+      ]
+    }
+  },
+  "5a0d325f0103423fa4df3ce2245775c4": {
+    "data": {
+      "sku": "5a0d325f0103423fa4df3ce2245775c4",
+      "name": "Bottled Water",
+      "brandName": "GENERIC",
+      "description": "Lorem ipsum dolor sit amet.",
+      "metaRobots": "index, follow",
+      "notForSale": false,
+      "quantityMin": 1,
+      "quantityMax": 99,
+      "quantityUnit": "ea",
+      "sellingSize": "1 Unit",
+      "storageInstructions": "Store in a cool dry place.",
+      "ingredients": "Natural Mineral Water.",
+      "stockInformationAvailable": true,
+      "price": {
+        "amount": 2.15,
+        "currencyCode": "EUR",
+        "currencySymbol": "€"
+      },
+      "categories": [
+        {
+          "id": "1234",
+          "name": "Mock Category",
+          "urlSlugText": "mock-category"
+        }
+      ],
+      "assets": [],
+      "nutritionalClaims": [],
+      "allergens": []
+    }
+  },
+  "efab3ae1594d49508f5796df4ac7628d": {
+    "data": {
+      "sku": "efab3ae1594d49508f5796df4ac7628d",
+      "name": "Soy Sauce",
+      "brandName": "GENERIC",
+      "description": "Lorem ipsum dolor sit amet.",
+      "metaRobots": "index, follow",
+      "notForSale": false,
+      "quantityMin": 1,
+      "quantityMax": 99,
+      "quantityUnit": "ea",
+      "sellingSize": "1 Unit",
+      "storageInstructions": "Store in a cool dry place.",
+      "ingredients": "Water, Soybeans, Wheat, Salt, Alcohol.",
+      "stockInformationAvailable": true,
+      "price": {
+        "amount": 4.24,
+        "currencyCode": "EUR",
+        "currencySymbol": "€"
+      },
+      "categories": [
+        {
+          "id": "1234",
+          "name": "Mock Category",
+          "urlSlugText": "mock-category"
+        }
+      ],
+      "assets": [],
+      "nutritionalClaims": [],
+      "allergens": [
+        {
+          "name": "Sulphur dioxide and sulphites",
+          "contains": true
+        },
+        {
+          "name": "Soybeans",
+          "contains": true
+        },
+        {
+          "name": "Eggs",
+          "contains": true
+        }
+      ]
+    }
+  },
+  "878ac4d60dc3452fbb21ae5c4a40331d": {
+    "data": {
+      "sku": "878ac4d60dc3452fbb21ae5c4a40331d",
+      "name": "Sushi Selection Box",
+      "brandName": "GENERIC",
+      "description": "Lorem ipsum dolor sit amet.",
+      "metaRobots": "index, follow",
+      "notForSale": false,
+      "quantityMin": 1,
+      "quantityMax": 99,
+      "quantityUnit": "ea",
+      "sellingSize": "1 Unit",
+      "storageInstructions": "Store in a cool dry place.",
+      "ingredients": "Sushi Rice (Rice, Rice Vinegar, Sugar, Salt), Salmon (Fish), Tuna (Fish), Prawn (Crustacean Shellfish), Nori Seaweed, Soy Sauce (Water, Soybeans, Wheat, Salt), Wasabi (Horseradish Powder, Mustard Powder, Starch), Pickled Ginger (Ginger, Water, Salt, Acidity Regulator: Acetic Acid).",
+      "stockInformationAvailable": true,
+      "price": {
+        "amount": 19.99,
+        "currencyCode": "EUR",
+        "currencySymbol": "€"
+      },
+      "categories": [
+        {
+          "id": "1234",
+          "name": "Mock Category",
+          "urlSlugText": "mock-category"
+        }
+      ],
+      "assets": [],
+      "nutritionalClaims": [],
+      "allergens": [
+        {
+          "name": "Fish",
+          "contains": true
+        },
+        {
+          "name": "Sesame",
+          "contains": true
+        }
+      ]
+    }
+  }
+}

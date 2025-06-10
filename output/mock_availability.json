@@ -1,0 +1,226 @@
+{
+  "5e9b566058d04d898de7a472e729a263": {
+    "1a8e61d5fa914919b8605dea4f809555": {
+      "ATP": {
+        "MESSAGES": [],
+        "AVAILABILITY": [
+          {
+            "ATP_DATE": "2025-06-15",
+            "QUANTITY": 22
+          }
+        ]
+      }
+    },
+    "34a67152754842089d0e23b0dc2e24c0": {
+      "ATP": {
+        "MESSAGES": [],
+        "AVAILABILITY": [
+          {
+            "ATP_DATE": "2025-06-16",
+            "QUANTITY": 19
+          }
+        ]
+      }
+    },
+    "4f0a88d5a1f24e81907af7c9f4403476": {
+      "ATP": {
+        "MESSAGES": [],
+        "AVAILABILITY": [
+          {
+            "ATP_DATE": "2025-06-10",
+            "QUANTITY": 29
+          }
+        ]
+      }
+    },
+    "3273937daefb4db2a3edd9d382cb03c9": {
+      "ATP": {
+        "MESSAGES": [],
+        "AVAILABILITY": [
+          {
+            "ATP_DATE": "2025-06-14",
+            "QUANTITY": 98
+          }
+        ]
+      }
+    },
+    "ef2ddd0a050d494ba420db69c855af63": {
+      "ATP": {
+        "MESSAGES": [],
+        "AVAILABILITY": [
+          {
+            "ATP_DATE": "2025-06-16",
+            "QUANTITY": 64
+          }
+        ]
+      }
+    },
+    "7d922ae992e74f439a65fdb1b7bd3df9": {
+      "ATP": {
+        "MESSAGES": [],
+        "AVAILABILITY": [
+          {
+            "ATP_DATE": "2025-06-15",
+            "QUANTITY": 74
+          }
+        ]
+      }
+    },
+    "a998ac642c5c4047ae0752a2b39e478c": {
+      "ATP": {
+        "MESSAGES": [],
+        "AVAILABILITY": [
+          {
+            "ATP_DATE": "2025-06-16",
+            "QUANTITY": 83
+          }
+        ]
+      }
+    },
+    "5a0d325f0103423fa4df3ce2245775c4": {
+      "ATP": {
+        "MESSAGES": [],
+        "AVAILABILITY": [
+          {
+            "ATP_DATE": "2025-06-16",
+            "QUANTITY": 64
+          }
+        ]
+      }
+    },
+    "efab3ae1594d49508f5796df4ac7628d": {
+      "ATP": {
+        "MESSAGES": [],
+        "AVAILABILITY": [
+          {
+            "ATP_DATE": "2025-06-13",
+            "QUANTITY": 92
+          }
+        ]
+      }
+    },
+    "878ac4d60dc3452fbb21ae5c4a40331d": {
+      "ATP": {
+        "MESSAGES": [],
+        "AVAILABILITY": [
+          {
+            "ATP_DATE": "2025-06-11",
+            "QUANTITY": 66
+          }
+        ]
+      }
+    }
+  },
+  "6b8ae610c38f4dceab2955937c83c1a7": {
+    "1a8e61d5fa914919b8605dea4f809555": {
+      "ATP": {
+        "MESSAGES": [],
+        "AVAILABILITY": [
+          {
+            "ATP_DATE": "2025-06-14",
+            "QUANTITY": 98
+          }
+        ]
+      }
+    },
+    "34a67152754842089d0e23b0dc2e24c0": {
+      "ATP": {
+        "MESSAGES": [],
+        "AVAILABILITY": [
+          {
+            "ATP_DATE": "2025-06-10",
+            "QUANTITY": 94
+          }
+        ]
+      }
+    },
+    "4f0a88d5a1f24e81907af7c9f4403476": {
+      "ATP": {
+        "MESSAGES": [],
+        "AVAILABILITY": [
+          {
+            "ATP_DATE": "2025-06-11",
+            "QUANTITY": 45
+          }
+        ]
+      }
+    },
+    "3273937daefb4db2a3edd9d382cb03c9": {
+      "ATP": {
+        "MESSAGES": [],
+        "AVAILABILITY": [
+          {
+            "ATP_DATE": "2025-06-12",
+            "QUANTITY": 13
+          }
+        ]
+      }
+    },
+    "ef2ddd0a050d494ba420db69c855af63": {
+      "ATP": {
+        "MESSAGES": [],
+        "AVAILABILITY": [
+          {
+            "ATP_DATE": "2025-06-12",
+            "QUANTITY": 51
+          }
+        ]
+      }
+    },
+    "7d922ae992e74f439a65fdb1b7bd3df9": {
+      "ATP": {
+        "MESSAGES": [],
+        "AVAILABILITY": [
+          {
+            "ATP_DATE": "2025-06-14",
+            "QUANTITY": 12
+          }
+        ]
+      }
+    },
+    "a998ac642c5c4047ae0752a2b39e478c": {
+      "ATP": {
+        "MESSAGES": [],
+        "AVAILABILITY": [
+          {
+            "ATP_DATE": "2025-06-12",
+            "QUANTITY": 92
+          }
+        ]
+      }
+    },
+    "5a0d325f0103423fa4df3ce2245775c4": {
+      "ATP": {
+        "MESSAGES": [],
+        "AVAILABILITY": [
+          {
+            "ATP_DATE": "2025-06-12",
+            "QUANTITY": 14
+          }
+        ]
+      }
+    },
+    "efab3ae1594d49508f5796df4ac7628d": {
+      "ATP": {
+        "MESSAGES": [],
+        "AVAILABILITY": [
+          {
+            "ATP_DATE": "2025-06-15",
+            "QUANTITY": 17
+          }
+        ]
+      }
+    },
+    "878ac4d60dc3452fbb21ae5c4a40331d": {
+      "ATP": {
+        "MESSAGES": [],
+        "AVAILABILITY": [
+          {
+            "ATP_DATE": "2025-06-16",
+            "QUANTITY": 25
+          }
+        ]
+      }
+    }
+  }
+}

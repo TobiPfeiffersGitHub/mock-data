@@ -17,8 +17,8 @@ store_df = pd.read_parquet(DATA_PATH / "store.parquet")
 product_df = pd.read_parquet(DATA_PATH / "product.parquet")
 
 # --- Select SKUs ---
-store_skus = store_df.sample(2, random_state=42)["store_sku"].tolist()
-product_skus = product_df.sample(10, random_state=42)["product_sku"].tolist()
+store_skus = store_df.sample(2, random_state=42)["store_sk"].tolist()
+product_skus = product_df.sample(10, random_state=42)["product_sk"].tolist()
 
 # --- Generate Availability JSON ---
 availability_data = {}
@@ -45,6 +45,33 @@ with open(OUTPUT_PATH / "mock_availability.json", "w") as f:
     json.dump(availability_data, f, indent=2)
 
 # --- Generate Product Info JSON ---
+def generate_allergens():
+    """Generate a list of allergens for a product"""
+    common_allergens = [
+        {"name": "Milk", "contains": True},
+        {"name": "Eggs", "contains": True},
+        {"name": "Fish", "contains": True},
+        {"name": "Crustacean shellfish", "contains": True},
+        {"name": "Tree nuts", "contains": True},
+        {"name": "Peanuts", "contains": True},
+        {"name": "Wheat", "contains": True},
+        {"name": "Soybeans", "contains": True},
+        {"name": "Sesame", "contains": True},
+        {"name": "Celery", "contains": True},
+        {"name": "Mustard", "contains": True},
+        {"name": "Sulphur dioxide and sulphites", "contains": True},
+        {"name": "Lupin", "contains": True},
+        {"name": "Molluscs", "contains": True}
+    ]
+    
+    # 30% chance of no allergens
+    if random.random() < 0.3:
+        return []
+    
+    # Otherwise, randomly select 1-4 allergens
+    num_allergens = random.randint(1, 4)
+    return random.sample(common_allergens, num_allergens)
+
 def generate_product_info(sku):
     return {
         "data": {
@@ -71,7 +98,7 @@ def generate_product_info(sku):
             ],
             "assets": [],
             "nutritionalClaims": [],
-            "allergens": []
+            "allergens": generate_allergens()
         }
     }
 
